@@ -1,0 +1,228 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\afighter.zip",
+      "label": "Action Fighter",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\batrider.zip",
+      "label": "Armed Police Batrider",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\batsugun.zip",
+      "label": "Batsugun",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\batsugunsp.zip",
+      "label": "Batsugun Special",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\bbakraid.zip",
+      "label": "Battle Bakraid Unlimited Ver.",
+      "core_path": "C:\\RA_AstroCity\\cores\\mame2010_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\galivan.zip",
+      "label": "Cosmo Police Galivan",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\desertbr.zip",
+      "label": "Desert Breaker",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\dogyuun.zip",
+      "label": "Dogyuun",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\samesame.zip",
+      "label": "Fire Shark",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\gground.zip",
+      "label": "Gain Ground",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\gunbird.zip",
+      "label": "Gunbird",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\mooncrst.zip",
+      "label": "Moon Cresta",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\outzone.zip",
+      "label": "Out Zone",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\raidenj.zip",
+      "label": "Raiden",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\sspirits.zip",
+      "label": "Scramble Spirits",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\sngkace.zip",
+      "label": "Sengoku Ace",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\shippumd.zip",
+      "label": "Shippuu Mahou Daisakusen",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\sonicbom.zip",
+      "label": "Sonic Boom",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\sonicwi.zip",
+      "label": "Sonic Wings",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\s1945.zip",
+      "label": "Strikers1945",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\szaxxon.zip",
+      "label": "Super Zaxxon",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\truxton.zip",
+      "label": "Tatsujin",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\truxton2.zip",
+      "label": "Tatsujin Oh",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\terracre.zip",
+      "label": "Terra Cresta",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\vfive.zip",
+      "label": "V-Five",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\wrestwar.zip",
+      "label": "Wrestle War",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    },
+    {
+      "path": "C:\\RA_AstroCity\\roms\\v\\zaxxon.zip",
+      "label": "Zaxxon",
+      "core_path": "C:\\RA_AstroCity\\cores\\fbneo_libretro.dll",
+      "core_name": "SEGA Astro City",
+      "crc32": "00000000|crc",
+      "db_name": "SEGA Astro City mini V.lpl"
+    }
+  ]
+}
